@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DummyDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Client">
+    <Key>
+      <PropertyRef Name="name" />
+    </Key>
+    <Property Name="name" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="starsign" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="confirmed" Type="bit" />
+  </EntityType>
+  <EntityType Name="Dialogues">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="question" Type="varchar" MaxLength="4000" Nullable="false" />
+    <Property Name="response" Type="varchar" MaxLength="4000" Nullable="false" />
+  </EntityType>
+  <EntityType Name="PatientParameters">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="modelName" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="voiceName" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="DummyDBModelStoreContainer">
+    <EntitySet Name="Client" EntityType="Self.Client" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Dialogues" EntityType="Self.Dialogues" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="PatientParameters" EntityType="Self.PatientParameters" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

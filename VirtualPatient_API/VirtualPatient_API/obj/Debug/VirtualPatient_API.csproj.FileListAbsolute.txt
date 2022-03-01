@@ -1,0 +1,208 @@
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\ApplicationInsights.config
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\VirtualPatient_API.dll.config
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\VirtualPatient_API.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\VirtualPatient_API.pdb
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\roslyn\csc.exe
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\roslyn\csc.exe.config
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\roslyn\csc.rsp
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\roslyn\csi.exe
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\roslyn\csi.exe.config
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\roslyn\csi.rsp
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\roslyn\System.AppContext.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\roslyn\System.Collections.Immutable.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\roslyn\System.Console.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\roslyn\System.IO.Compression.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\roslyn\System.IO.FileSystem.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\roslyn\System.IO.Pipes.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\roslyn\System.Reflection.Metadata.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\roslyn\System.Security.AccessControl.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\roslyn\System.Security.Claims.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\roslyn\System.ValueTuple.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\roslyn\System.Xml.XPath.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\roslyn\vbc.exe
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\roslyn\vbc.exe.config
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\roslyn\vbc.rsp
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\roslyn\VBCSCompiler.exe
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\roslyn\VBCSCompiler.exe.config
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\Antlr3.Runtime.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\DataAccess.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\EntityFramework.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\EntityFramework.SqlServer.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\Microsoft.AI.DependencyCollector.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\Microsoft.AI.Web.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\Microsoft.AI.WindowsServer.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\Microsoft.ApplicationInsights.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\Microsoft.Web.Infrastructure.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\Newtonsoft.Json.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\System.Net.Http.Formatting.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\System.Web.Helpers.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\System.Web.Http.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\System.Web.Http.WebHost.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\System.Web.Mvc.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\System.Web.Optimization.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\System.Web.Razor.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\System.Web.WebPages.Deployment.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\System.Web.WebPages.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\System.Web.WebPages.Razor.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\WebGrease.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\DataAccess.pdb
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\DataAccess.dll.config
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\EntityFramework.xml
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\EntityFramework.SqlServer.xml
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\Newtonsoft.Json.xml
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\System.Net.Http.Formatting.xml
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\System.Web.Helpers.xml
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\System.Web.Http.xml
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\System.Web.Http.WebHost.xml
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\System.Web.Mvc.xml
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\System.Web.Optimization.xml
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\System.Web.Razor.xml
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\System.Web.WebPages.xml
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\System.Web.WebPages.Deployment.xml
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\System.Web.WebPages.Razor.xml
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\Antlr3.Runtime.pdb
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\Microsoft.AI.DependencyCollector.xml
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\Microsoft.AI.WindowsServer.xml
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\Microsoft.AI.Web.xml
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\obj\Debug\VirtualPatient_API.csprojAssemblyReference.cache
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\obj\Debug\VirtualPatient_API.csproj.CoreCompileInputs.cache
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\obj\Debug\VirtualPatient_API.csproj.CopyComplete
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\obj\Debug\VirtualPatient_API.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\VirtualPatient_API\obj\Debug\VirtualPatient_API.pdb
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\ApplicationInsights.config
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\VirtualPatient_API.dll.config
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\VirtualPatient_API.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\VirtualPatient_API.pdb
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\roslyn\csc.exe
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\roslyn\csc.exe.config
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\roslyn\csc.rsp
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\roslyn\csi.exe
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\roslyn\csi.exe.config
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\roslyn\csi.rsp
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\roslyn\Microsoft.Managed.Core.targets
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\roslyn\System.AppContext.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\roslyn\System.Collections.Immutable.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\roslyn\System.Console.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\roslyn\System.IO.Compression.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\roslyn\System.IO.FileSystem.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\roslyn\System.IO.Pipes.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\roslyn\System.Reflection.Metadata.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\roslyn\System.Security.AccessControl.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\roslyn\System.Security.Claims.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\roslyn\System.Security.Principal.Windows.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\roslyn\System.ValueTuple.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\roslyn\System.Xml.XmlDocument.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\roslyn\System.Xml.XPath.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\roslyn\vbc.exe
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\roslyn\vbc.exe.config
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\roslyn\vbc.rsp
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\roslyn\VBCSCompiler.exe
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\roslyn\VBCSCompiler.exe.config
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\Antlr3.Runtime.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\DataAccess.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\EntityFramework.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\EntityFramework.SqlServer.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\Microsoft.AI.Agent.Intercept.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\Microsoft.AI.DependencyCollector.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\Microsoft.AI.Web.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\Microsoft.AI.WindowsServer.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\Microsoft.ApplicationInsights.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\Microsoft.Web.Infrastructure.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\Newtonsoft.Json.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\System.Diagnostics.DiagnosticSource.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\System.Net.Http.Formatting.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\System.Web.Helpers.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\System.Web.Http.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\System.Web.Http.WebHost.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\System.Web.Mvc.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\System.Web.Optimization.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\System.Web.Razor.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\System.Web.WebPages.Deployment.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\System.Web.WebPages.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\System.Web.WebPages.Razor.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\WebGrease.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\DataAccess.pdb
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\DataAccess.dll.config
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\EntityFramework.xml
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\EntityFramework.SqlServer.xml
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\Newtonsoft.Json.xml
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\System.Net.Http.Formatting.xml
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\System.Web.Helpers.xml
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\System.Web.Http.xml
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\System.Web.Http.WebHost.xml
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\System.Web.Mvc.xml
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\System.Web.Optimization.xml
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\System.Web.Razor.xml
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\System.Web.WebPages.xml
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\System.Web.WebPages.Deployment.xml
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\System.Web.WebPages.Razor.xml
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\Antlr3.Runtime.pdb
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\System.Diagnostics.DiagnosticSource.xml
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\Microsoft.AI.DependencyCollector.xml
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\Microsoft.AI.WindowsServer.xml
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\Microsoft.AI.Web.xml
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\obj\Debug\VirtualPatient_API.csproj.AssemblyReference.cache
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\obj\Debug\VirtualPatient_API.csproj.CoreCompileInputs.cache
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\obj\Debug\VirtualPatient_API.csproj.CopyComplete
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\obj\Debug\VirtualPatient_API.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\VirtualPatient_API\obj\Debug\VirtualPatient_API.pdb

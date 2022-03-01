@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DummyDBModelStoreContainer" CdmEntityContainer="DummyDBEntities">
+    <EntitySetMapping Name="Dialogues">
+      <EntityTypeMapping TypeName="DummyDBModel.Dialogue">
+        <MappingFragment StoreEntitySet="Dialogues">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="question" ColumnName="question" />
+          <ScalarProperty Name="response" ColumnName="response" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PatientParameters">
+      <EntityTypeMapping TypeName="DummyDBModel.PatientParameter">
+        <MappingFragment StoreEntitySet="PatientParameters">
+          <ScalarProperty Name="voiceName" ColumnName="voiceName" />
+          <ScalarProperty Name="modelName" ColumnName="modelName" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Clients">
+      <EntityTypeMapping TypeName="DummyDBModel.Client">
+        <MappingFragment StoreEntitySet="Client">
+          <ScalarProperty Name="confirmed" ColumnName="confirmed" />
+          <ScalarProperty Name="starsign" ColumnName="starsign" />
+          <ScalarProperty Name="name" ColumnName="name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

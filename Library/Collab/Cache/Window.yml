@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/Graphics/Characters/RP_Character/rp_sophia_rigged_003/Materials/rp_sophia_rigged_003_mat.mat
+    - Assets/Scenes/Level Scenes/VirtualPatient1.unity
+    - Assets/Scenes/Level Scenes/VirtualPatient2.unity
+    - Assets/Scenes/Level Scenes/VirtualPatient2.unity.meta
+    - Assets/Scenes/Menus/Authentication.unity
+    - Assets/Scenes/Menus/StudentMenu.unity
+    - Assets/Scripts/LevelSelection.cs
+    - Assets/Scripts/LevelSelection.cs.meta
+    - Assets/Scripts/UI/UIController.cs
+    - Assets/Scripts/UI/UIManager.cs
+    - ProjectSettings/EditorBuildSettings.asset
+    - 
+    m_Values: 000000000000000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0

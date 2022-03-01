@@ -1,0 +1,24 @@
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\DataAccess\bin\Debug\DataAccess.dll.config
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\DataAccess\bin\Debug\DataAccess.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\DataAccess\bin\Debug\DataAccess.pdb
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\DataAccess\bin\Debug\EntityFramework.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\DataAccess\bin\Debug\EntityFramework.xml
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\DataAccess\obj\Debug\DataAccess.dll
+D:\Repositories\VirtualPatient\VirtualPatient_RestAPI\VirtualPatient_API\DataAccess\obj\Debug\DataAccess.pdb
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\DataAccess\bin\Debug\DataAccess.dll.config
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\DataAccess\bin\Debug\DataAccess.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\DataAccess\bin\Debug\DataAccess.pdb
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\DataAccess\bin\Debug\EntityFramework.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\DataAccess\bin\Debug\EntityFramework.xml
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\DataAccess\obj\Debug\DataAccess.dll
+D:\[Unity Projects]\Harris' Virtual Patient\VirtualPatient_API\DataAccess\obj\Debug\DataAccess.pdb
