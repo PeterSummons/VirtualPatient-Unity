@@ -1,19 +1,21 @@
 /* Amanda Patricia Viray
  * January 2022
  * 
- * DBConnect is a class that contains a connection string and 
+ * DBConnect is a class that contains a public connection string and 
  * database details to connect to the Microsoft SQL Server Database. 
  * 
- * Get to NuGet first for the SQL libraries
- * Right-click the project > Manage NuGet Packages for solution... >
- * then download System.Data.SqlClient 
+ * If there is red underline under System.Data.SqlClient,
+ * go to NuGet first for the SQL libraries by
+ * Right-clicking the project > Manage NuGet Packages for solution... >
+ * then download System.Data.SqlClient.
+ * 
+ * This script is suseptible to change because the project aims to authenticate
+ * through the Web API instead straight from the database. This is done in order
+ * to have a demo prepare in a short amount of time. 
  * 
  */
 
-using System;
-using System.Data;
 using System.Data.SqlClient;
-using UnityEngine.UI;
 using UnityEngine;
  
 public class DBConnect : MonoBehaviour

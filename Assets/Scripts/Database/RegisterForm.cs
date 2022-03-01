@@ -3,6 +3,10 @@
  * 
  * RegisterForm is a class that contains functions for registering into VP. 
  * 
+ * This script is suseptible to change because the project aims to authenticate
+ * through the Web API instead straight from the database. This is done in order
+ * to have a demo prepare in a short amount of time. 
+ * 
  * Functions:
  * - ToSql ()
  * 

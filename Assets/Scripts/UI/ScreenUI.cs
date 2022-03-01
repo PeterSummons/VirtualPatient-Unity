@@ -1,3 +1,14 @@
+/* Amanda Patricia Viray
+ * January 2022
+ * 
+ * ScreenUI is a class that adds names into the student/admin screens 
+ * after they login. This scrip will ask the developer to assign the
+ * text objects to output user name.
+ * 
+ * Functions:
+ * - Start ()
+ * 
+ */
 
 using UnityEngine;
 using UnityEngine.UI;

@@ -1,3 +1,15 @@
+/* Amanda Patricia Viray
+ * January 2022
+ * 
+ * UIController is a class that controls the action of the buttons in the project. 
+ * 
+ * Functions:
+ * - Click (Button, Action)
+ * - Switch (string Scene)
+ * - (optional) NextLevel()
+ * 
+ */
+
 using UnityEngine.SceneManagement;
 using UnityEngine;
 using UnityEngine.UI;

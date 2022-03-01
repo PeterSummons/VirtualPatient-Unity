@@ -62,7 +62,6 @@
     <Compile Include="Assets\Scripts\LevelSelection.cs" />
     <Compile Include="Assets\Scripts\Database\DBConnect.cs" />
     <Compile Include="Assets\Graphics\Backgrounds\Doctor&apos;s office\Scripts\RotateMoveCamera.cs" />
-    <Compile Include="Assets\Scripts\Database\WebAPI.cs" />
     <Compile Include="Assets\Graphics\Characters\Yishen\Face\BlendShape.cs" />
     <Compile Include="Assets\Scripts\UI\UIController.cs" />
     <Compile Include="Assets\Scripts\Database\RegisterForm.cs" />
@@ -355,9 +354,6 @@
     </Reference>
     <Reference Include="Unity.Burst.Cecil.Rocks">
       <HintPath>Library\PackageCache\com.unity.burst@1.6.4\Unity.Burst.CodeGen\Unity.Burst.Cecil.Rocks.dll</HintPath>
-    </Reference>
-    <Reference Include="Newtonsoft.Json">
-      <HintPath>Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0\Runtime\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>D:\Unity3D\Editor\2021.2.10f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\mscorlib.dll</HintPath>

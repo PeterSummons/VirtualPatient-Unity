@@ -1,13 +1,23 @@
-using System;
+/* Amanda Patricia Viray
+ * January 2022
+ * 
+ * APICOnnect is a class that connects the Web API with Unity. 
+ * 
+ * Functions:
+ * - OnClickSubmit()
+ * 
+ */
+
+
 using System.Collections;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.Networking;
-using Newtonsoft.Json;
+//using Newtonsoft.Json;
 //using Crosstales.RTVoice.Tool;
 //using UnityEngine.UI;
 //using Crosstales.RTVoice;
-using TMPro;
+//using TMPro;
 
 public class APIConnect : MonoBehaviour
 {
@@ -35,10 +45,6 @@ public class APIConnect : MonoBehaviour
         {
             _instance = this;
         }
-    }
-
-    void Start()
-    {
     }
 
     public void OnClickSubmit()

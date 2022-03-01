@@ -1,7 +1,11 @@
 /* Amanda Patricia Viray
  * January 2022
  * 
- * LoginForm is a class that contains a functions for logging into VP. 
+ * LoginForm is a class that contains a function for logging into VP. 
+ * 
+ * This script is suseptible to change because the project aims to authenticate
+ * through the Web API instead straight from the database. This is done in order
+ * to have a demo prepare in a short amount of time. 
  * 
  * Functions:
  * - FromSql ()

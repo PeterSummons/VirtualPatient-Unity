@@ -1,14 +1,28 @@
 /* Amanda Patricia Viray
  * January 2022
  * 
- * UIManager is a class that contains functions for managing UI. 
+ * UIManager is a class that contains functions for managing UI
+ * when activated/deactivated. 
  * 
  * Functions:
+ * - Hide(GameObject)
+ * - Show(GameObject)
+ * 
+ * LOGIN SCREEN
  * - LoginScreen()
- * - RegisterScreen()
- * - OpenSettings()
- * - CloseSettings()
+ * - RegisterScreen(), ConfirmRegister()
+ * - StudentLogin(), AdminLogin()
  * - LogOut()
+ * 
+ * STUDENT MENU
+ * - SettingsPanel(), Close_settings()
+ * - LevelsScreen(), Back_LevelsScreen()
+ * - OpenSettings(), CloseSettings()
+ * 
+ * VIRTUAL PATIENT SCENE
+ * - EnablePatientDialog(), DisablePatientDialog()
+ * - etc...
+ * 
  */
 
 using UnityEngine;
@@ -144,11 +158,13 @@ public class UIManager : MonoBehaviour
     public void ConfirmRegister(){ Show(ConfirmRegisterUI); }
     public void LogOut() { SceneManager.LoadScene("Authentication"); Hide(Student_SettingsUI); }
 
+    //Student Menu UI
     public void SettingsPanel() { Show(Student_SettingsUI); }
     public void Close_settings() { Hide(Student_SettingsUI); }
     public void LevelsScreen() { Show(Student_LevelsUI); }
     public void Back_LevelsScreen() { Hide(Student_LevelsUI); Show(StudentUI); }
 
+    // Virtual Paitent Menu UI
     public void EnablePatientDialog() { Show(PatientDialogUI); }
     public void DisablePatientDialog() { Hide(PatientDialogUI); }
     public void PauseScreen() { Show(PauseUI); }

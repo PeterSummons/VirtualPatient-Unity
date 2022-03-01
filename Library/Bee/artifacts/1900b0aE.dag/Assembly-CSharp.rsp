@@ -359,7 +359,6 @@
 "Assets/Scripts/Database/DBConnect.cs"
 "Assets/Scripts/Database/LoginForm.cs"
 "Assets/Scripts/Database/RegisterForm.cs"
-"Assets/Scripts/Database/WebAPI.cs"
 "Assets/Scripts/LevelSelection.cs"
 "Assets/Scripts/UI/ScreenUI.cs"
 "Assets/Scripts/UI/UIController.cs"
