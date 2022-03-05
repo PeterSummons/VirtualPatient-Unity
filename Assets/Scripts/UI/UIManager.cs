@@ -75,11 +75,7 @@ public class UIManager : MonoBehaviour
                     uiM.LoginUI = (GameObject)EditorGUILayout.ObjectField("Login UI: ", uiM.LoginUI, typeof(GameObject), true);
                     uiM.RegisterUI = (GameObject)EditorGUILayout.ObjectField("Register UI: ", uiM.RegisterUI, typeof(GameObject), true);
                     uiM.ConfirmRegisterUI = (GameObject)EditorGUILayout.ObjectField("Confirmed Register UI: ", uiM.ConfirmRegisterUI, typeof(GameObject), true);
-                    uiM.StudentUI = (GameObject)EditorGUILayout.ObjectField("Student UI: ", uiM.StudentUI, typeof(GameObject), true);
-                    uiM.Student_SettingsUI = (GameObject)EditorGUILayout.ObjectField("Student - Settings UI: ", uiM.Student_SettingsUI, typeof(GameObject), true);
-                    uiM.Student_LevelsUI = (GameObject)EditorGUILayout.ObjectField("Student - Levels UI: ", uiM.Student_LevelsUI, typeof(GameObject), true);
-                    uiM.AdminUI = (GameObject)EditorGUILayout.ObjectField("Admin UI: ", uiM.AdminUI, typeof(GameObject), true);
-
+                    
                 }
 
             } // End Main Menu View
@@ -150,7 +146,7 @@ public class UIManager : MonoBehaviour
 
     //Functions to change the login screen UI
     public void LoginScreen() { Show(LoginUI); Hide(RegisterUI); Hide(ConfirmRegisterUI);}
-
+    
     public void RegisterScreen() { Hide(LoginUI); Show(RegisterUI);}
 
     public void StudentLogin() { SceneManager.LoadScene("StudentMenu"); }

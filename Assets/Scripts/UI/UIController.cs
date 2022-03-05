@@ -74,13 +74,6 @@ public class UIController : MonoBehaviour
                     uiC.register_BackButton = (Button)EditorGUILayout.ObjectField("Register - Cancel Button: ", uiC.register_BackButton, typeof(Button), true);
                     uiC.register_ConfirmButton = (Button)EditorGUILayout.ObjectField("Register - Confirm Button: ", uiC.register_ConfirmButton, typeof(Button), true);
                     uiC.registered_backButton = (Button)EditorGUILayout.ObjectField("Register - Return Home Button: ", uiC.registered_backButton, typeof(Button), true);
-                    uiC.student_settingsButton = (Button)EditorGUILayout.ObjectField("Student - Settings Button: ", uiC.student_settingsButton, typeof(Button), true);
-                    uiC.closeSettingsButton = (Button)EditorGUILayout.ObjectField("Student - Close Settings Button: ", uiC.closeSettingsButton, typeof(Button), true);
-                    uiC.logOutButton = (Button)EditorGUILayout.ObjectField("Log Out Button: ", uiC.logOutButton, typeof(Button), true);
-                    //uiC.LevelsButton = (Button)EditorGUILayout.ObjectField("Levels Button: ", uiC.LevelsButton, typeof(Button), true);
-                    uiC.BackLevelsButton = (Button)EditorGUILayout.ObjectField("Levels - Back Button: ", uiC.BackLevelsButton, typeof(Button), true);
-                    uiC.StartButton = (Button)EditorGUILayout.ObjectField("Start Button: ", uiC.StartButton, typeof(Button), true);
-
                 }
 
             } // End Main Menu View
@@ -186,7 +179,7 @@ public class UIController : MonoBehaviour
         }
         
 
-        if (currentScene >= 4)
+        if (currentScene >= 4) 
         {
             Click(notesButton, UI.OpenNotes);
             Click(closeNotesButton, UI.CloseNotes);
@@ -203,10 +196,10 @@ public class UIController : MonoBehaviour
 
         }
 
-        //if(nextSceneLoad > PlayerPrefs.GetInt("levelAt"))
-        //{
-        //    PlayerPrefs.SetInt("levelAt", nextSceneLoad);
-        //}
+        if (nextSceneLoad > PlayerPrefs.GetInt("levelAt"))
+        {
+            PlayerPrefs.SetInt("levelAt", nextSceneLoad);
+        }
 
     }
 }

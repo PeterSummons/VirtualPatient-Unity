@@ -1203,7 +1203,6 @@ MonoBehaviour:
   student_settingsButton: {fileID: 0}
   closeSettingsButton: {fileID: 0}
   logOutButton: {fileID: 0}
-  LevelsButton: {fileID: 0}
   StartButton: {fileID: 0}
   BackLevelsButton: {fileID: 0}
   sayButton: {fileID: 0}
@@ -1214,7 +1213,7 @@ MonoBehaviour:
   finishButton: {fileID: 0}
   returnButton: {fileID: 0}
   NextLevelButton: {fileID: 0}
-  UIView: 1
+  UIView: 0
   nextSceneLoad: 0
 --- !u!114 &496530425
 MonoBehaviour:
